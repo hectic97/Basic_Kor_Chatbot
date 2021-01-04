@@ -18,4 +18,6 @@ GRU, Attention
 충분히 그럴 수 있을 거예요
 exit
 ```
-(데이터 부족 및 문답 데이터가 연애에 관련된 데이터로 일반적인 질문 대처 불가능)
+Not enough data for doing normal conversation<br>
+
+
