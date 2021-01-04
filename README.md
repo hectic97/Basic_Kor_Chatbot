@@ -4,6 +4,8 @@ Basic Korean Chatbot using Chatbot_data_for_Korean v1.0
 ## Model
 GRU, Attention 
 
+![image](https://user-images.githubusercontent.com/61140071/103528990-3f752680-4ec8-11eb-92fc-1369513aa831.png)
+
 ## Result
 ```
 안녕
