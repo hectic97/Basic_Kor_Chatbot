@@ -5,6 +5,7 @@ Basic Korean Chatbot using Chatbot_data_for_Korean v1.0
 GRU, Attention 
 
 ## Result
+```
 안녕
 안녕하세요
 졸려
@@ -16,4 +17,4 @@ GRU, Attention
 왜 갑자기 반말해?
 충분히 그럴 수 있을 거예요
 exit
-
+```
